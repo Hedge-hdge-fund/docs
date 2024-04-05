@@ -2,6 +2,8 @@
 
 Welcome to the "Docs" repository for Hedge. This repository serves as a central location for all documents pertaining to the organization.
 
+To see Hedge in action, check out [our website.](https://hdge.fund/)
+
 ## Purpose
 
 The purpose of this repository is to maintain transparency and provide easy access to important documents related to Hedge. This includes but is not limited to:
